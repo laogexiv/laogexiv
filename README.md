@@ -100,11 +100,6 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  社区贡献
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-</h2>
   
 
 
@@ -112,9 +107,9 @@
 <!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
 <div align="center">
 <!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laogexiv&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laogexiv&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laogexiv&theme=radical" width="33%" />
 
 </div>
 
