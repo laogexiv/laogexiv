@@ -141,9 +141,7 @@
 
 <!-- 使用SVG制作的动态语录 -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=B站up主+%7C+程序猿+%7C+地球人;以皎洁的月华，照亮无尽的虚空;做自己，然后活下去;我们不知道未来是怎样的，来搭把手，往前走吧！" alt="编程名言" />
-</div>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=B站up主+%7C+程序猿+%7C+地球人;以皎洁的月华，照亮无尽的虚空;做自己，然后活下去;我们不知道未来是怎样的，来搭把手，往前走吧！)](https://git.io/typing-svg)
 
 
 <!-- 页脚 - 统一标题样式并对齐图标 -->
