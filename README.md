@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Luniverse|Linterspace&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=以皎洁的月华，照亮无尽的虚空&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Luniverse_vix&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=以皎洁的月华，照亮无尽的虚空&descAlignY=55" />
 
   # 👋 Hello，here is Luniverse_vix from Linterspace
 
