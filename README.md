@@ -201,4 +201,4 @@
 </p>
 
 <!-- 添加波浪动画页脚 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:31498f,100:1b255&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
